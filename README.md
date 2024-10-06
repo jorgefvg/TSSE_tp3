@@ -2,6 +2,10 @@
 
 Autor: Jorge Vasquez
 
+## Componente a testear
+
+Se trata de una biblioteca que implementa una MEF (mealy) para trabajar con anti-rebotes por software. Esta biblioteca sera utilizada en el proyecto final de la CESE para detectar el estado de un boton conectado a una placa nucleo-f4.
+
 ## Uso del repositorio
 
 Este repositorio utiliza las siguientes herramientas:
